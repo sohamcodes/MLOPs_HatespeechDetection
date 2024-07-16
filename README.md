@@ -17,15 +17,21 @@ Training Pipeline:
 
 Prediction Pipeline: 
 1. Get Trained model 
-2. Predict using API Endpoint 
+2. Predict using API Endpoint
 
 
+FAST API GUI 
+
+![image](https://github.com/user-attachments/assets/eff3efd1-b08e-4b5e-87c8-93f901c0d20a)
+
+
+FAST API GUI to train and Predict
 
 ![Screenshot 2024-07-16 at 15 34 19](https://github.com/user-attachments/assets/1c38f06b-833e-488e-ab6f-152b4e4aa0df)
 
-FAST API GUI to train and Predict 
 
+GCP Bucket to store Trained Model and  Dataset
 
 <img width="1685" alt="Screenshot 2024-07-16 at 16 52 37" src="https://github.com/user-attachments/assets/b5d2112b-6f08-490c-9d99-a945f84d4bdc">
 
-GCP Bucket to store Trained Model and  Dataset 
+
